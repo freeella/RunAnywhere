@@ -1,5 +1,5 @@
 # RunAnywhere
-Just some thoughts on how a shell script must look like that it can run on any Unix/Linux/MacOS with bash installed as well as on Windows
+Just some thoughts on how a shell script can look like that can run on any Unix/Linux/MacOS with bash installed as well as on Windows
 
 ## Goal
 The goal is to create a text file that can be executed under **Windows** and any OS that has **BASH** installed.
